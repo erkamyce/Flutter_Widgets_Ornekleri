@@ -1,16 +1,4 @@
-# widgets_kullanimi1
+Snackbar - Alert - ElevatedButton - TextButton - TextField - Text - Image - Switch - CheckBox - RadionButton - ProgressBar - Slider - Time&DatePicker
+-----------------
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/erkamyce/Flutter_Widgets_Ornekleri/assets/115027797/050bb173-ee19-4521-a3d0-1a7bc84e4642" height="600">
